@@ -1,0 +1,22 @@
+{
+  "name": "small-react-redux-shopping-cart-for-interview",
+  "description": "Small React/Redux shopping cart for Frontend dev interview",
+  "version": "0.0.83",
+  "dependencies": {
+    "spectre.css": "0.4.6",
+    "redux-thunk": "2.2.0",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "16.1.1",
+    "react": "16.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
